@@ -1,0 +1,13 @@
+manifestVersion: 1
+name: "@stack72/letsencrypt-certificate"
+version: "2026.03.04.1"
+description: "A model to manage the lifecycle of a LetsEncrypt certificate"
+
+models:
+  - letsencrypt_certificate.ts
+
+repository: "https://github.com/stack72/swamp-letsencrypt"
+
+additionalFiles:
+  - README.md
+  - LICENSE
